@@ -80,7 +80,7 @@ ptyprocess==0.7.0
 pure_eval==0.2.3
 py-cpuinfo==9.0.0
 py4j==0.10.9.7
-pyarrow==19.0.1
+pyarrow==23.0.1
 pycryptodomex==3.22.0
 pydantic==2.11.3
 pydantic_core==2.33.1
